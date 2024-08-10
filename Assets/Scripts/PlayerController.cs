@@ -29,6 +29,23 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        if (weapon.isMeleeing || weapon.isShooting)
+        {
+
+        }
+        else
+        {
+            
+            if (rb.velocity.y > 0.2)
+            {
+                animator.Play("RedJump", 0);
+            }
+            else if (rb.velocity.y < 0)
+            {
+                animator.Play("RedFall", 0);
+            }
+            
+        }
 
         if (gameHasEnded)
         {

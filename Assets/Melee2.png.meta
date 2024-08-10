@@ -119,6 +119,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -126,12 +152,12 @@ TextureImporter:
       name: Melee2_0
       rect:
         serializedVersion: 2
-        x: 47
-        y: 3
-        width: 84
-        height: 166
+        x: 0
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -147,12 +173,12 @@ TextureImporter:
       name: Melee2_1
       rect:
         serializedVersion: 2
-        x: 242
-        y: 3
-        width: 85
-        height: 166
+        x: 196
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -168,12 +194,12 @@ TextureImporter:
       name: Melee2_2
       rect:
         serializedVersion: 2
-        x: 2007
-        y: 6
-        width: 146
-        height: 171
+        x: 392
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -189,12 +215,12 @@ TextureImporter:
       name: Melee2_3
       rect:
         serializedVersion: 2
-        x: 2224
+        x: 588
         y: 0
-        width: 118
+        width: 196
         height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -210,12 +236,12 @@ TextureImporter:
       name: Melee2_5
       rect:
         serializedVersion: 2
-        x: 2419
+        x: 980
         y: 0
-        width: 118
+        width: 196
         height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,12 +257,12 @@ TextureImporter:
       name: Melee2_6
       rect:
         serializedVersion: 2
-        x: 430
-        y: 7
-        width: 109
-        height: 155
+        x: 1176
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,12 +278,12 @@ TextureImporter:
       name: Melee2_7
       rect:
         serializedVersion: 2
-        x: 626
-        y: 7
-        width: 110
-        height: 155
+        x: 1372
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,12 +299,12 @@ TextureImporter:
       name: Melee2_8
       rect:
         serializedVersion: 2
-        x: 828
-        y: 4
-        width: 105
-        height: 149
+        x: 1568
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,12 +320,12 @@ TextureImporter:
       name: Melee2_9
       rect:
         serializedVersion: 2
-        x: 1041
-        y: 3
-        width: 104
-        height: 139
+        x: 1764
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,12 +341,12 @@ TextureImporter:
       name: Melee2_10
       rect:
         serializedVersion: 2
-        x: 1236
-        y: 3
-        width: 105
-        height: 138
+        x: 1960
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,12 +362,12 @@ TextureImporter:
       name: Melee2_11
       rect:
         serializedVersion: 2
-        x: 1428
-        y: 7
-        width: 106
-        height: 139
+        x: 2156
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,12 +383,12 @@ TextureImporter:
       name: Melee2_12
       rect:
         serializedVersion: 2
-        x: 1617
-        y: 6
-        width: 125
-        height: 136
+        x: 2352
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -375,22 +401,22 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Melee2_13
+      name: Melee2_4
       rect:
         serializedVersion: 2
-        x: 1806
-        y: 7
-        width: 140
-        height: 138
+        x: 784
+        y: 0
+        width: 196
+        height: 196
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a7304304811664448b46b65d538db34f
-      internalID: -983251737
+      spriteID: 607a36d7c2c051748b5068f3bfa5829a
+      internalID: 1401374195
       vertices: []
       indices: 
       edges: []
@@ -411,9 +437,6 @@ TextureImporter:
       Melee2_10: 1707885710
       Melee2_11: 1449315035
       Melee2_12: -465610180
-      Melee2_13: -983251737
-      Melee2_14: -1014632354
-      Melee2_15: 1205485160
       Melee2_2: -1729184546
       Melee2_3: 1476812279
       Melee2_4: 1401374195
